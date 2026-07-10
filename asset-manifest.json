@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/smart-balance-analyzer/static/js/main.626735c6.js",
+    "index.html": "/smart-balance-analyzer/index.html",
+    "main.626735c6.js.map": "/smart-balance-analyzer/static/js/main.626735c6.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.626735c6.js"
+  ]
+}
